@@ -49,3 +49,17 @@ Examines relationships between BMI and sleep, stress, energy, cravings, snacking
 ## Key Skills Demonstrated
 Data Cleaning | Data Transformation | Data Visualization | Power Query | DAX | BMI Analysis | Lifestyle Analysis | Dashboard Design | Business Insights
 
+## Dashboard Screenshots
+
+### 1. Client Overview
+![Client Overview](Client_Overview.png)
+
+### 2. Lifestyle Analysis
+![Lifestyle Analysis](Lifestyle%20Analysis.png)
+
+### 3. Weight & Behaviour Insights
+![Weight and Behaviour Insights](Weight_and_behaviour_insight.png)
+
+### 4. Health & Actionable Insights
+![Health and Actionable Insights](Health_and_actionable_insights.png)
+
